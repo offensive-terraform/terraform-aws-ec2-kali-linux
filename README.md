@@ -20,8 +20,6 @@ Offensive Terraform module which creates Kali Linux from the AWS marketplace and
 
 ![Attack Diagram](https://raw.githubusercontent.com/offensive-terraform/terraform-aws-ec2-kali-linux/master/diagram.jpg)
 
-> Note: 
-
 ## Usage
 ```
 module "ec2-kali-linux" {
