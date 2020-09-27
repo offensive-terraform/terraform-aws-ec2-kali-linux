@@ -18,6 +18,7 @@ Offensive Terraform module which creates Kali Linux from the AWS marketplace and
 ## Requirements
 [Subscribe Kali Linux on Marketplace](https://aws.amazon.com/marketplace/server/procurement?productId=8b7fdfe3-8cd5-43cc-8e5e-4e0e7f4139d5)
 
+## Diagram
 ![Attack Diagram](https://raw.githubusercontent.com/offensive-terraform/terraform-aws-ec2-kali-linux/master/diagram.jpg)
 
 ## Usage
