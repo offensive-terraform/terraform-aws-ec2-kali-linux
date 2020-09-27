@@ -13,7 +13,7 @@ resource "aws_key_pair" "this" {
 }
 
 data "template_file" "user_data" {
-  template = file("./payload.sh")
+  template = file(".terraform/modules/ec2-kali-linux/payload.sh")
 }
 
 resource "aws_default_subnet" "default" {
